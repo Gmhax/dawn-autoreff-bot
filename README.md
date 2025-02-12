@@ -31,10 +31,7 @@ cd dawn-autoreff-bot
 pip install -r requirements.txt
 
 ```
-#### Unix:
-```bash
-pip3 install -r requirements.txt
-```
+
 ## Run the Bot
 - Replace the proxies ```proxies.txt``` to your own proxies, with the format example is like:
 ```bash
