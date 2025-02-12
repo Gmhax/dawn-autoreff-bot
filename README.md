@@ -30,7 +30,8 @@ cd dawn-autoreff-bot
 ```
 #### Windows and Termux:
 ```bash
-pip install -r requirements.txt
+sudo apt update && sudo apt install python3 python3-pip git -y
+
 ```
 #### Unix:
 ```bash
