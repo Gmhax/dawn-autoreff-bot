@@ -39,15 +39,25 @@ http://127.0.0.1:8080
 http://user:pass@127.0.0.1:8080
 ```
 >Only http proxies supported for now
-- Windows and Termux:
+- Create session:
 ```bash
-python main.py
+screen -S dawref
+
 ```
-- Unix:
+
+- Execute:
 ```bash
 python3 main.py
+
 ```
+- To get Capcha API key go to: https://2captcha.com/enterpage signup/dashboard/apikey/
+
 - Then insert your referral code
+
+
+## Detach session: Press: CTRL A+D
+
+
 ## Notes
 - Run this bot, use my referrer code if you don't have one.
 - You can just run this bot at your own risk, I'm not responsible for any loss or damage caused by this bot.
